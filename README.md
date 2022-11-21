@@ -16,3 +16,4 @@ The development server will start and a browser window should automaticall open
 
 ![image](https://user-images.githubusercontent.com/5248312/203149337-fda96bd7-6082-40bb-9d67-30f94b78fe9a.png)
 
+![image](https://user-images.githubusercontent.com/5248312/203150884-f1112189-4ad4-4a5c-924f-3cbb447cba39.png)
